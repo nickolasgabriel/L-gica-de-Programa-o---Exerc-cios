@@ -1,2 +1,2 @@
 AQUI SE ENCONTRA OS EXERCÍCIOS QUE EU FIZ, ENQUANTO ESTAVA APRENDENDO JAVA COM UMA PLAYLIST DO YOUTUBE "MARATONA JAVA VIRADO NO JIRAYA".
-PARA QUEM TIVER INTERESSE O LINK DA PLAYLIST É [maratona java virado no jiraya]([https://seu-link-aqui.com](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)).
+PARA QUEM TIVER INTERESSE O LINK DA PLAYLIST É [maratona java virado no jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
